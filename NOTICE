@@ -1,0 +1,5 @@
+HPLC Fluid Visualizer
+
+The browser model and example layouts were ported from the original HPLC Fluid Visualizer Java application.
+The original source attribution to Paul Boswell and Jon Thompson is preserved in model.js.
+Java-derived numerical reference fixtures are included for verification.
